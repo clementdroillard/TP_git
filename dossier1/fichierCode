@@ -5,7 +5,6 @@ fonction branche1(){
 	}
 	
 fonction branche2(){
-	une ligne à mdifier
-	une lig,e à supprimer
+	une ligne
 	une ligne à conserver
 }
